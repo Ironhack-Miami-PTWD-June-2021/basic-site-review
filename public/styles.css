@@ -1,0 +1,16 @@
+body {
+    padding: 1rem 5rem;
+    background-color: beige;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
